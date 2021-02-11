@@ -1,4 +1,4 @@
-## About Laravel API Aithentication 
+## About Laravel API Authentication 
 This is a simple Laravel API authenticated by using Passport Package.You can register or login to get the accessToken that will allow you to Create, Show, Update, and Delete Products information.
 
 ## Product 
